@@ -1,0 +1,25 @@
+{
+  "name": "twitchirc",
+  "version": "1.0.0",
+  "description": "Twitch IRC Utility",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "package.json": "^2.0.1",
+    "process": "^0.11.10",
+    "tmi": "^2.0.0",
+    "tmi.js": "^1.8.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/aychan/TwitchIRC"
+  },
+  "author": "Anthony Chan",
+  "license": "ISC"
+}
